@@ -1,0 +1,29 @@
+{
+  "name": "object-len",
+  "version": "1.0.0",
+  "description": "Get the number of properties in an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neosiae/object-len.git"
+  },
+  "keywords": [
+    "object",
+    "length"
+  ],
+  "author": "Denis Kotlica <neosiae@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neosiae/object-len/issues"
+  },
+  "homepage": "https://github.com/neosiae/object-len#readme",
+  "dependencies": {
+    "is-object": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^5.0.1"
+  }
+}
